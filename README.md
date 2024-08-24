@@ -1,1 +1,2 @@
 # ScriptingForGames
+Hi Im Jaden Hunt i am hoping to get a better understanding on The process into making Games as i have wanted to do so for a long time i dont have a ton of experience with it as when i tried to take a game development class in high school they had us learn some unity and then they switched teachers and the new one didn't know how to do it so it turned into a study hall instead
